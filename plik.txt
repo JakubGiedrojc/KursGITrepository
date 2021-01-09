@@ -1,3 +1,4 @@
 Zmiana pliku.
 kolejna zmiana
 Nowa funkcjonalna wartość
+nie
